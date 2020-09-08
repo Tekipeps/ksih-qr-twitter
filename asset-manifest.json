@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ksih-qr-twitter/static/css/main.7171a68b.chunk.css",
+    "main.js": "/ksih-qr-twitter/static/js/main.bd01cb9c.chunk.js",
+    "main.js.map": "/ksih-qr-twitter/static/js/main.bd01cb9c.chunk.js.map",
+    "runtime-main.js": "/ksih-qr-twitter/static/js/runtime-main.faeb589a.js",
+    "runtime-main.js.map": "/ksih-qr-twitter/static/js/runtime-main.faeb589a.js.map",
+    "static/js/2.cfd7d1c9.chunk.js": "/ksih-qr-twitter/static/js/2.cfd7d1c9.chunk.js",
+    "static/js/2.cfd7d1c9.chunk.js.map": "/ksih-qr-twitter/static/js/2.cfd7d1c9.chunk.js.map",
+    "index.html": "/ksih-qr-twitter/index.html",
+    "precache-manifest.c1e2f29a81bb3c4973ab5e26eb4156fd.js": "/ksih-qr-twitter/precache-manifest.c1e2f29a81bb3c4973ab5e26eb4156fd.js",
+    "service-worker.js": "/ksih-qr-twitter/service-worker.js",
+    "static/css/main.7171a68b.chunk.css.map": "/ksih-qr-twitter/static/css/main.7171a68b.chunk.css.map",
+    "static/js/2.cfd7d1c9.chunk.js.LICENSE.txt": "/ksih-qr-twitter/static/js/2.cfd7d1c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faeb589a.js",
+    "static/js/2.cfd7d1c9.chunk.js",
+    "static/css/main.7171a68b.chunk.css",
+    "static/js/main.bd01cb9c.chunk.js"
+  ]
+}
